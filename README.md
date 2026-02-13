@@ -184,7 +184,7 @@ AI responses, payments, and authentication are simulated to prevent exposing pri
 ## 👨‍💻 Author
 
 Developed by **Muhamad Nurhan**  
-Final Year Project – Software Engineering
+Final Year Project – Computer Science
 
 ---
 
